@@ -16,7 +16,9 @@
     Desktop - @TelegramDesktopTalk
 
 申诉反馈模板1:
+
 主题: Please recover my Telegram account
+
 内容: 
 Dear Telegram Support Team,I am writing to appeal the recent ban on my Telegram account. I understand that my account has been blocked for violating the terms of service, but I would like to explain the circumstances surrounding this situation.
 
