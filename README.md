@@ -17,7 +17,12 @@
 ### Q5、苹果手机商店怎么没有Telegram了
 - 因应北京政府要求 中国地区 WhatsApp、Threads、Telegram、Signal 下架
 - 所以换安卓吧【最好是华为！！支持国产】
-### Q6、Telegram 如果你进入某个群或频道遇到如下提示：
+### Q6、电脑能正常登录手机收不到验证码
+- 尽量保持手机在线
+- 登录的时候看一下消息他是把验证码发给短信了还是发给已登陆的设备了
+- 如果短信收不到可以用telegramX试试
+- 如果设备收不到下方会显示'没有收到验证码',给telegram官方发邮件
+### Q7、Telegram 如果你进入某个群或频道遇到如下提示：
 #### This channel can't displayed because it was used to spread pornographic content.
 ```
 原因：
